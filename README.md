@@ -1,7 +1,7 @@
 # Portfolio-FlexBlog
 
-Portfólio de um Blog feito seguindo instruções do curso de FlexBox, na plataforma Origamid.
-Aprendi na prática conceitos de CSS Flexbox.
+Portfólio de um projeto feito seguindo instruções do curso de FlexBox, na plataforma Origamid.
+Aprendi na prática conceitos de CSS Flexbox para a realização desse portfólio chamado FlexBlog.
 
 # Propriedades do Flex Container
 
